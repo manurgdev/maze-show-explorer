@@ -23,8 +23,10 @@ Favoritos:
 
 - El usuario puede marcar películas como favoritas (almacenado en localStorage).
 
-Usa esta API pública de ejemplo `GET https://api.tvmaze.com/shows`
+Usa esta API pública de ejemplo `GET https://api.tvmaze.com/shows`.
+
+Incluye un README explicando brevemente qué harías diferente con más tiempo.
+
+## Entrega
 
 Sube tu código a un repo de GitHub. Si es privado trendrás que darnos acceso (usuario ograu de github)
-
-Incluye un README explicando bervemente qué harías diferente con más tiempo.
