@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Construir una pequeña aplicación web en React que consuma una API y permita explorar una lista de películas.
+Construir una pequeña aplicación web en React que consuma una API y permita explorar una lista de películas. Queremos que trates este mini proyecto como si lo fueses a poner en producción. 
 
 ## Requisitos
 
@@ -29,4 +29,4 @@ Incluye un README explicando brevemente qué harías diferente con más tiempo.
 
 ## Entrega
 
-Sube tu código a un repo de GitHub. Si es privado trendrás que darnos acceso (usuario ograu de github)
+Sube tu código a un repo de GitHub. Si es privado trendrás que darnos acceso (usuarios ograu y lonamiaec de github)
