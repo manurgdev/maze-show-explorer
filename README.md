@@ -30,3 +30,22 @@ Incluye un README explicando brevemente qué harías diferente con más tiempo.
 ## Entrega
 
 Sube tu código a un repo de GitHub. Si es privado trendrás que darnos acceso (usuario ograu)
+
+## NEXT STEPS
+
+Leer [NEXTSTEPS.md](./NEXTSTEPS.md) para ver las próximas mejoras que se pueden realizar.
+
+## Como ejecutar el proyecto
+
+```bash
+npm install
+npm run dev
+```
+
+## Como ejecutar los tests
+
+```bash
+npm run test:prod # Para ejecutar los tests en modo producción
+npm run test # Para ejecutar los tests en modo watch
+npm run test:coverage # Para ejecutar los tests con cobertura
+```
